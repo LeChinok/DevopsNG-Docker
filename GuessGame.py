@@ -16,5 +16,4 @@ while True:
         print("Your number is lesser than my guess")
     elif guess > random_number:
         print("Your number is more than my guess")
-
         break
